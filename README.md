@@ -1,43 +1,47 @@
-# The Commissar Returns | Static Archive 
-# Комиссар возвращается | Статический архив
+<img src=".github/cover.jpg" alt="Троцкий. Комиссар возвращается" width="100%">
 
-This repository contains a permanent static mirror of the website `commissarreturns.ru`.
-В данном репозитории хранится вечный статический снимок (зеркало) сайта `commissarreturns.ru`.
+# Троцкий. Комиссар возвращается
 
----
+*Trotsky. The Commissar Returns*
 
-## 🏛 Project Context / Контекст проекта
+Сайт выставки о Льве Троцком: более 170 фотографий из коллекции Дэвида Кинга, продолжение проекта «Комиссар исчезает».
 
-**EN:** This project is a digital preservation of "The Commissar Returns" online resource, a continuation of the historical research initiatives by the **GULAG History Museum** (Moscow).
-**RU:** Этот проект является цифровой копией онлайн-ресурса «Комиссар возвращается», ставшего продолжением исторических и исследовательских инициатив **Государственного музея истории ГУЛАГа** (ГМИГ).
+**[Открыть архив →](https://commissarreturns.gmig.gulagmemory.org)** · [Все сохранённые сайты](https://gulagmemory.org)
 
-* **Official Museum Website / Сайт ГМИГ:** [https://gmig.ru](https://gmig.ru)
-* **Original URL / Исходный адрес:** [http://commissarreturns.ru](http://commissarreturns.ru)
-* **Archive Date / Дата архивации:** Февраль 2026
+| | |
+|:--|:--|
+| **Тип** | Сайт выставки |
+| **Годы** | 2013 |
+| **Исходный адрес** | `commissarreturns.ru` |
+| **Адрес архива** | [commissarreturns.gmig.gulagmemory.org](https://commissarreturns.gmig.gulagmemory.org) |
+| **Снимок сделан** | февраль 2026 · `wget` |
 
----
+## О проекте
 
-## 📜 About the Project / О проекте
+Выставка работала в Музее истории ГУЛАГа на Петровке, 16, с 18 мая по 15 сентября 2013 года. Она продолжала проект «[Комиссар исчезает](https://github.com/gulag-museum/comissarvanishes.ru)»: если первая выставка показывала, как опальных деятелей вычищали из советских фотографий, то эта возвращала в визуальную историю главного из них — Троцкого, стёртого из официальных изображений на десятилетия.
 
-**EN:** "The Commissar Returns" serves as a conceptual sequel to "The Commissar Vanishes," shifting focus toward the process of restoration of memory, rehabilitation, and the return of names from historical oblivion. This archive preserves the testimonies and research data presented in the original project.
+В основе — коллекция Дэвида Кинга, который с 1970 года собирал всё, что мог найти о Троцком, после того как в советских музеях революции не нашлось ни одной его фотографии.
 
-**RU:** Проект «Комиссар возвращается» является смысловым продолжением выставки «Комиссар исчезает», смещая фокус на процессы восстановления памяти, реабилитации и возвращения имен из исторического забвения. Данный архив сохраняет свидетельства и исследовательские данные, представленные в оригинальном проекте.
+## Что сохранено
 
----
-
-## 🛠 Technical Details / Технические детали
-
-**EN:** This archive is a static HTML snapshot generated via `wget`.
-**RU:** Этот архив представляет собой статический снимок HTML, созданный с помощью `wget`.
-
-* **Functionality:** All internal links are preserved. Search and forms are disabled.
-* **Функциональность:** Все внутренние ссылки сохранены. Поиск и формы обратной связи отключены.
+- текст о выставке и эссе Дэвида Кинга;
+- биография Льва Троцкого;
+- галерея фотографий и указатель людей, изображённых на снимках;
+- русская и английская версии сайта.
 
 ---
 
-## ⚖️ Disclaimer / Правовая информация
-This archive is maintained for historical and educational purposes. All rights to the original content belong to the GULAG History Museum.
-Этот архив поддерживается в исторических и образовательных целях. Все права на оригинальный контент принадлежат Государственному музею истории ГУЛАГа.
+Репозиторий входит в [реестр сохранённых сайтов Музея истории ГУЛАГа](https://gulagmemory.org) — некоммерческий архив цифрового наследия, созданный в исследовательских и образовательных целях. Права на тексты, фотографии, видео и другие материалы принадлежат их авторам и правообладателям.
 
----
-*Preserved by gmig*
+<details>
+<summary><b>English</b></summary>
+
+### Trotsky. The Commissar Returns
+
+Website of the 2013 exhibition on Leon Trotsky at the GULAG History Museum: over 170 photographs from David King's collection, a sequel to The Commissar Vanishes. Includes King's essay, a Trotsky biography, a gallery and an index of people. Russian and English.
+
+**Type:** Exhibition website · **Original address:** `commissarreturns.ru` · **Archive:** [commissarreturns.gmig.gulagmemory.org](https://commissarreturns.gmig.gulagmemory.org)
+
+Part of the [registry of preserved GULAG History Museum websites](https://gulagmemory.org) — a non-commercial digital heritage archive for research and education. All texts, photographs, video and other materials remain the property of their authors and rights holders.
+
+</details>
